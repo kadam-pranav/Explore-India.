@@ -1,0 +1,132 @@
+body{
+    padding: 0%;
+    margin: 0%;
+ 
+}
+#first{
+    width: 100%;
+    height: 800px;
+    background-image: url('https://plus.unsplash.com/premium_photo-1697729441569-f706fdd1f71c?q=80&w=1470&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D');
+    background-position: top;
+    border-bottom-left-radius: 4%;
+     border-bottom-right-radius: 4%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+
+}
+#divfirst1{
+    width: 94%;
+    height: 60px;
+    background-color: rgba(255, 255, 255, 0.719);
+    border-radius: 15%;
+    margin-top: 15px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+   
+    
+
+
+}
+
+#divfirst1 a{
+    text-decoration: none;
+    font-size: 135%;
+    color:rgb(52, 3, 52);
+    
+}
+
+.firstan:hover{
+    border-bottom: 2px solid rgb(52, 3, 52);
+}
+
+#divfirst2{
+     
+     text-align: center;
+}
+
+#second{
+    width: 100%;
+    height: 700px;
+  background: url('https://i.ytimg.com/vi/RiAuZZ_3l40/hq720.jpg?sqp=-oaymwE7CK4FEIIDSFryq4qpAy0IARUAAAAAGAElAADIQj0AgKJD8AEB-AH-CYAC0AWKAgwIABABGH8gOCgTMA8=&rs=AOn4CLAOCIg8YyMa_XLB-oFfo302thmnrA');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: top;
+  display: flex;
+  align-items:end;
+  border-top-left-radius: 4%;
+  border-top-right-radius: 4%;
+
+}
+#third{
+
+    width: 100%;
+    height: auto;
+    background-color:rgb(200, 251, 251);
+     border-top-left-radius: 4%;
+  border-top-right-radius: 4%;
+}
+#second2{
+     display: flex;
+     flex-direction: column;
+     row-gap: 20px;
+
+
+}
+#firstsecond2{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 5%;
+    margin-right: 5%;
+    
+
+}
+#secondsecond2{
+    display: flex;
+    justify-content: space-between;
+     margin-left: 5%;
+    margin-right: 5%;
+    
+}
+.divsecond2{
+    width: 28%;
+    height: 220px;
+    background-color:white;
+    border-radius: 10%;
+    box-shadow: 3px 3px 6px  rgba(0, 0, 0, 0.565);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+    
+
+
+}
+P{
+    margin: 0%;
+    padding: 0%;
+}
+.divsecond2 a{
+    text-decoration: none;
+}
+.divsecond2 a:hover{
+    border-bottom: 2px solid rgb(3, 56, 142);
+    
+}
+
+#third3{
+    background-image: url('https://i.cdn.newsbytesapp.com/images/l97520240412141834.jpeg');
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    border-top-left-radius: 40px ; 
+    border-top-right-radius: 40px;
+    display: flex;
+    align-items: end;
+
+}
+
